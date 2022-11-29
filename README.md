@@ -10,8 +10,7 @@
 </div>
   <div>
   <p>- 👀 I’m interested in web designing and as well as web developing.</p>
-  <p>- 🌱 I’m currently completed my learning to basics of -
-   python , java , c++ , html , css , js , React , Next js , Nodejs .</p>
+  <p>- 🌱 My Skills -</p>
  <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Css" src="https://img.shields.io/badge/CSS-white?&style=flat-square&logo=css3&logoColor=blue" />
