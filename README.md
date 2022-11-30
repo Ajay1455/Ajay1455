@@ -32,9 +32,6 @@
     <p>Throughout my life, I have developed this art of being able to communicate with anyone at any given time.</p>
    <p> 📫 How to reach me ? -> by this Outlook id : i.ajay.sharma@outlook.com</p>
   </div>
-<!--   <div>
-   <img src="https://media0.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="200">
-  </div> -->
 </body>
 </html>
 
