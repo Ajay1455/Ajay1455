@@ -5,6 +5,7 @@
 <body>
 
 <div style="display: flex">
+<!--     <img src="https://github-readme-stats.vercel.app/api?username=ajay1455&show_icons=true"/> -->
 <!--   <div >
     <img src="introduction.svg" width="400" height="200" alt="introduction">
 </div> -->
@@ -31,6 +32,9 @@
    <p>(💞️ I love coffee & love to do athletics :)</p>
     <p>Throughout my life, I have developed this art of being able to communicate with anyone at any given time.</p>
    <p> 📫 How to reach me ? -> by this Outlook id : i.ajay.sharma@outlook.com</p>
+<!--       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ajay1455"/> -->
+<!--       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ajay1455&layout=compact"/> -->
+     
   </div>
 </body>
 </html>
