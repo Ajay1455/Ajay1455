@@ -5,9 +5,9 @@
 <body>
 
 <div style="display: flex">
-  <div >
+<!--   <div >
     <img src="introduction.svg" width="400" height="200" alt="introduction">
-</div>
+</div> -->
   <div>
   <p>- 👀 I’m interested in web designing and as well as web developing.</p>
   <p>- 🌱 My Skills -</p>
