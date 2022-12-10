@@ -33,7 +33,7 @@
     <p>Throughout my life, I have developed this art of being able to communicate with anyone at any given time.</p>
    <p> 📫 How to reach me ? -> by this Outlook id : i.ajay.sharma@outlook.com</p>
 <!--       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ajay1455"/> -->
-<!--       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ajay1455&layout=compact"/> -->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ajay1455&layout=compact"/> 
      
   </div>
 </body>
